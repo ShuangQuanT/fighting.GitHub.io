@@ -1,0 +1,25 @@
+{
+    "folders": [
+		{
+			"path": "..\\WorkCode\\C_C++\\VsCode\\project1\\CSS\\C\\H"
+		},
+		{
+			"path": "..\\WorkCode\\C_C++\\VsCode\\project1\\CSS\\C\\js1"
+		},
+		{
+			"path": "..\\WorkCode\\C_C++\\VsCode\\project1\\CSS\\C\\js2"
+		},
+		{
+			"path": "..\\WorkCode\\C_C++\\VsCode\\project1\\CSS\\C\\JS学习"
+		},
+		{
+			"path": "..\\WorkCode\\C_C++\\VsCode\\project1\\CSS\\C\\JQ"
+		},
+		{
+			"path": "..\\WorkCode\\C_C++\\VsCode\\project1\\CSS\\C\\书城"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "js1"
+    }
+}
